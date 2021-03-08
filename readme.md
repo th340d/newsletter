@@ -1,47 +1,22 @@
-# How To Manage One's Files
+# How To Set Up A Mobile Device For Security And Master One's Online Data, Part 1: Principles
 
-Whenever one starts using a new device capable of storing files, it is important to have a strategy as to how files will be organised on the device. A good strategy is even more important when the device allows the user to install applications and access and modify files that affect how the device functions as it becomes critical to be able to distinguish which files are safe to modify.
+This guide will explain how to set up a mobile device for maximum security without significantly degrading the experience of using the device and provide suggestions on how digital technology can be used generally to improve one's overall security while retaining one's privacy - which may act as a foundation to ultimately enable technology to be used more productively.
 
-Most modern operating systems for devices of this kind suggest an architecture for distinguishing between files primarily consisting of user-generated content (which I'll refer to as "user media") and "functional" files - those that are relied upon by the operating system and/or applications in order to function properly. The operating systems frequently even go so far as to suggest how the user media be organised.
+The guide may be utilised by someone who is just getting started online or an existing web user who is looking for a fresh start to improve their practices around privacy and security. Common issues such as having too many passwords or being overly-exposed to big service providers are given a remedy. While iOS users may find some of the information provided useful, frequently steps require that one be using an Android device (not the least of which because Android allows apps to be side-loaded).
 
-Take, for example, Windows 10 for PCs. By default, user media is placed somewhere within a folder within "C:/Users/" bearing the user's username, which comes prepared out-of-the-box with folders for different media types (e.g. "Documents" and "Music") and a "Downloads" folder. Making these subdivisions makes sense insofar as users may prefer to view different information about a file depending on its media type and so separating files into different folders on that basis is a quick way to give each file a default for how it will be displayed.
+### Disclaimer:
 
-However, there are typically a few issues that arise when merely following the default organisation system offered by each device.
+It is important that the reader consider his or her individual circumstances when reading this guide. As laws across jurisdictions may vary, the reader is responsible for ensuring that any and all actions that he or she takes are in compliance with all laws and regulations applicable to him or her and no representations are made about the accuracy or currency of this guide beyond the minimum that may be required by law.
 
-Firstly, applications do not always have a consistent approach to storing user generated media and so the default location can quickly become filled with junk.
+## Principles
 
-Secondly, the systems may be different across devices and so it may be difficult to pull one's data from one device to another.
+These principles underpin the steps and recommendations in this multi-part guide so are being provided first. As general principles, they will likely be longer-lasting than any individual suggestion.
 
-Thirdly, the system may not give consideration to use cases beyond the most basic.
-
-Instead, I propose an approach for organising files that can be set up on almost any given device on top of it's default system that has the following benefits:
-
-It makes the data easier to store (and create backups).
-
-It makes the data easier to move around between devices.
-
-It creates consistency for how data is organised (making it quicker to access, particularly from long-term storage).
-
-It gives one a better understanding of what files should be retained and what can be discarded (meaning less resources are taken up overall).
-
-The system is simple. First, when setting up a new device, find the root directory of wherever user media is typically saved and create a folder in it. I'll refer to this as the "Files" folder but it could be named anything.
-
-Within this folder, create two more folders: "Archive" and "Storage".
-
-If the device has multiple drives and on is interested in using the additional space, create folders on each of these (which can be called "Files 2", "Files 3", et cetera). Inside of each of these folders create "Archive" and "Storage" folders. Then, create a shortcut to each additional "Files" directory within the primary "Files" folder and a link back to the primary "Files" folder from within each of these directories.
-
-Other than this, the "Files" folder(s) should only ever contain files that don't connect to anything outside of the "Files" folder. Ideally, every file in the folder should be understood by the user.
-
-Applications should not be allowed to put files into the "Files" folder unless the user has complete confidence that he or she knows what is being put in there.
-
-Periodically, the "Files" folder can be cleaned by moving any of it's contents which are not currently being used into the "Storage" folder (or deleting them). If there are any other files on the devices that it is important to retain and haven't already been backed up, this is also an opportunity to take copies of them.
-
-All files in the "Storage" folder should be at the same level (as in, it should not contain any subdirectories). If the user wants to add files to storage for which it is important that the folder structure be maintained (such as a coding project), the folder should be zipped so that it may be stored as an individual file. The "Storage" folder can then periodically be cleared by taking it's contents off the device and placing them somewhere secure (or, ideally, in multiple secure places as copies so that the data is always backed up).
-
-The "Archive" folder is an intermediary step between the main "Files" directory and the "Storage" subdirectory. It can be used in the short-term to store files for which maintaining the folder structure may be important or, particularly, for which the folder structure contains information about the file (for example, where the fact that a photo is situated within a folder called "Photos taken by Bob" is the only record that has been made of who the photographer was). One should then periodically clear the "Archive" folder by converting its contents to individual files - either by zipping them, or combining the name of the folder into the name of the file (which might turn "Photo 1.jpg" into "Photos taken by Bob: Photo 1.jpg", to continue the earlier example).
-
-Following this strategy also makes it easy to sync files with the cloud - as the majority of one's important content is located within a single directory.
-
-I hope you found this post useful and I look forward to finding out more about your organisational practices for data.
-
-**[Comments](https://www.reddit.com/r/th340dbloghowtomanage)**
+1. A person should only ever have to remember two passwords. These passwords should never be revealed and easy to change if necessary.
+2. It should be quick and easy to change email addresses.
+3. A well-designed product is both easy-to-use and secure.
+4. It is important for one's smartphone to be secure.
+5. Provided that it is secure, it is usually advisable to keep one's smartphone close at hand.
+6. One's phone should be kept at maximum charge as much as possible and, when using one's phone, it is better to be draining the battery of a power bank than that of the phone.
+7. One's default policy (with regards to phone settings and notifications) should be to maximise security and minimise disturbances. With that as a baseline, one can then consider each feature individually in terms of whether to make an allowance.
+8. Unless accessing the service uninterrupted is critical, one's default policy with regards to activating a new paid subscription should be to cancel immediately after subscribing. This is almost always the same as simply paying for a single billing period rather carries significantly less financial risk.
