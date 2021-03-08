@@ -1,2 +1,0 @@
-# newsletter
-David Hopkins' newsletter.
