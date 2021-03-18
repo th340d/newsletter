@@ -1,4 +1,4 @@
-# How To Set Up A Mobile Device For Security And Master One's Online Data, Part 1: Principles
+How To Set Up A Mobile Device For Security And Master One's Online Data, Part 2: Equipment
 
 This guide will explain how to set up a mobile device for maximum security without significantly degrading the experience of using the device and provide suggestions on how digital technology can be used generally to improve one's overall security while retaining one's privacy - which may act as a foundation to ultimately enable technology to be used more productively.
 
@@ -8,15 +8,69 @@ The guide may be utilised by someone who is just getting started online or an ex
 
 It is important that the reader consider his or her individual circumstances when reading this guide. As laws across jurisdictions may vary, the reader is responsible for ensuring that any and all actions that he or she takes are in compliance with all laws and regulations applicable to him or her and no representations are made about the accuracy or currency of this guide beyond the minimum that may be required by law.
 
-## Principles
+## Equipment
 
-These principles underpin the steps and recommendations in this multi-part guide so are being provided first. As general principles, they will likely be longer-lasting than any individual suggestion.
+The following equipment is suggested in order of importance. Not all items are required but the benefit that each additional item can provide may be cumulative.
 
-1. A person should only ever have to remember two passwords. These passwords should never be revealed and easy to change if necessary.
-2. It should be quick and easy to change email addresses.
-3. A well-designed product is both easy-to-use and secure.
-4. It is important for one's smartphone to be secure.
-5. Provided that it is secure, it is usually advisable to keep one's smartphone close at hand.
-6. One's phone should be kept at maximum charge as much as possible and, when using one's phone, it is better to be draining the battery of a power bank than that of the phone.
-7. One's default policy (with regards to phone settings and notifications) should be to maximise security and minimise disturbances. With that as a baseline, one can then consider each feature individually in terms of whether to make an allowance.
-8. Unless accessing the service uninterrupted is critical, one's default policy with regards to activating a new paid subscription should be to cancel immediately after subscribing. This is almost always the same as simply paying for a single billing period rather carries significantly less financial risk.
+
+- A cost-effective smartphone compatible with Android 11 (or higher) that is robust, performant, has a high-quality camera, microphone and fingerprint sensor and permits two-way charging.
+
+
+- A cable for charging the smartphone via a USB outlet.
+
+
+- An adapter for connecting USB charging cables and/or an AC charging cable to an AC outlet.
+
+
+- A cost-effective backup smartphone with an identical charging port and similar features to the primary phone.
+
+
+- An adaptor for connecting a micro-USB cable with the smartphone(s).
+
+
+- An adaptor for connecting a USB cable with the smartphone(s).
+
+
+- A short USB to micro-USB charging cable.
+
+
+- A SIM tray ejector tool.
+
+
+- A small plastic sleeve for holding the SIM tray ejector tool and adaptors.
+
+
+- A dual phone wallet for protecting the phones and holding the plastic sleeve, short cable, credit cards and cash.
+
+
+- A smartphone glass screen protector.
+
+
+- A solar powerbank.
+
+
+- A portable keyring powerbank.
+
+
+- A portable keyring powerbank exclusively for use in an emergency.
+
+
+- A keyring for holding powerbanks and keys.
+
+
+- A portable keyring bluetooth tracking device.
+
+
+- A multi-purpose USB cable.
+
+
+- An adapter for connecting the USB charging cable to cigarette lighter.
+
+
+- A cable for charging peripheral electronic devices via automobile outlets.
+
+
+- A portable car jump starter.
+
+
+- A cable for connecting the smartphones with each other (directly).
